@@ -10,7 +10,8 @@ public class firstoccurance {
             if(a[mid]==k){
                 found=mid;
                 e=mid-1;
-               // to find last occurance s=mid+1;
+               // to find last occurance 
+               //s=mid+1;
             }
             else if(a[mid]<k){
                 s=mid+1;
